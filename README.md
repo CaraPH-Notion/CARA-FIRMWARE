@@ -43,3 +43,5 @@ ESP32-C3 firmware for CaraPH wearable medical device
 - Emergency power-off at 3.0V
 - Hardware diagnostic validation
 - Memory leak protection
+Sync test
+
